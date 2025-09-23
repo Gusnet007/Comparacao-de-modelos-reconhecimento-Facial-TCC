@@ -1,2 +1,2 @@
 # Comparacao-de-modelos-reconhecimento-Facial-TCC
-Esse repositório é destinado a pesquisa de TCC que leva em considerações os modelos mais utilizados em reconhecimento facial
+Este repositório reúne os materiais da pesquisa de Trabalho de Conclusão de Curso (TCC), voltada para a análise e comparação de alguns dos modelos mais utilizados em reconhecimento facial.
